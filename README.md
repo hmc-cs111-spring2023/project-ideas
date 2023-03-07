@@ -55,7 +55,7 @@ of the ideas are free-form, one is subject to constraints:
 1.  **Free-range idea #2:** No constraints on this idea--it's all you!
     Describe this idea in `free-2.md`.
 
-1.  **Interview ideaa:** Interview someone else who has expertise in a particular domain.
+1.  **Interview idea:** Interview someone else who has expertise in a particular domain.
     They need not be programmers — it is probably best if they aren't — but it is okay if
     you end up interviewing a programmer / computer scientist. To come up with an idea, use
     some of the techniques from the beginning of the semester: interviewing, unpacking,
